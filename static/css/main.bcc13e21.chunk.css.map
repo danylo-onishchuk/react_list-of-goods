@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,iBACF,CAEA,UACE,oBAAa,CAAb,YAAa,CACb,cAAU,CAAV,SAAU,CACV,8BAAuB,CAAvB,sBACF","file":"main.bcc13e21.chunk.css","sourcesContent":[".title {\n  text-align: center;\n}\n\n.btn__row {\n  display: flex;\n  gap: 100px;\n  justify-content: center;\n}\n"]}
